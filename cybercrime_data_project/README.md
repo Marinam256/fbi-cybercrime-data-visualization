@@ -1,5 +1,5 @@
 FBI CDE Cybercrime Visualization (Student Project)
-Author: Marina M.
+# Author: Marina M.
 
 # Overview
 My project analyzes hacking and computer invasion offenses in the United States from 2020 to 2025 utilizing FBI CDE
@@ -46,3 +46,4 @@ Future work includes integrating APIs to automate data collection, allowing for 
 - Offense counts for 2025 are lower due to incomplete reporting, as the year was not fully completed at the time of data collection.
 - All data compiled for this project was sourced directly from the FBI CDE’s website and downloaded/ transferred as CSV files.
 - Due to the filtering options on the FBI CDE’s website, I manually transferred the offense counts of all US states to a CSV file. 
+
