@@ -47,4 +47,10 @@ Future work includes integrating APIs to automate data collection, allowing for 
 - All data compiled for this project was sourced directly from the FBI CDE’s website and downloaded/ transferred as CSV files.
 - Due to the filtering options on the FBI CDE’s website, I manually transferred the offense counts of all US states to a CSV file. 
 
+## National Trend
+![National Trend](../images/national_trend.png)
+
+## Top 5 States
+![Top 5 States](../images/top5_states.png)
+
 
