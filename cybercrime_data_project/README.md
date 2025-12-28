@@ -7,6 +7,12 @@ data(https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home). I chose this particul
 
 The main goal of this project is to visualize national trends over the last five years and compare states with the highest number of offenses during this period. I achieved this by learning data cleaning, aggregation, and visualization in Python.
 
+# Visualization 
+The following screenshots include the national trends and top 5 state graphs:
+![National Trend](../images/national_trend.png)
+
+![Top 5 States](../images/top5_states.png)
+
 # Data Source
 Source- https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home
 
@@ -46,11 +52,4 @@ Future work includes integrating APIs to automate data collection, allowing for 
 - Offense counts for 2025 are lower due to incomplete reporting, as the year was not fully completed at the time of data collection.
 - All data compiled for this project was sourced directly from the FBI CDE’s website and downloaded/ transferred as CSV files.
 - Due to the filtering options on the FBI CDE’s website, I manually transferred the offense counts of all US states to a CSV file. 
-
-## National Trend
-![National Trend](../images/national_trend.png)
-
-## Top 5 States
-![Top 5 States](../images/top5_states.png)
-
 
