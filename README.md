@@ -9,9 +9,9 @@ The main goal of this project is to visualize national trends over the last five
 
 # Visualization 
 The following screenshots include the national trends and top 5 state graphs:
-![National Trend](../images/national_trend.png)
+![National Trend](images/national_trend.png)
 
-![Top 5 States](../images/top5_states.png)
+![Top 5 States](images/top5_states.png)
 
 # Data Source
 Source- https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home
